@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(86, 182, 214);
+}#img-fundo{
+    height: 500px;
+    width: 100%;
+    opacity: 0.8;
+    border-radius: 9px;
+}
+#text{
+    background-color: whitesmoke;
+    height: 2100px;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 9px;
+}#img-s{
+    height: 500px;
+    width: 80%;
+    margin: 0px 10px 0px 90px;
+    border-radius: 9px;
+}#img-capa{
+    height: 700px;
+    width: 80%;
+    margin: 0px 0px 0px 80px;
+    border-radius: 9px;
+    opacity: 0,1;
+}
+#indice{
+    background-color: whitesmoke;
+    width: 15%;
+    height: 150px;
+    margin: -1700px 0px 0px -2px;
+    text-align: center;
+    border-radius: 9px;
+}p{
+    padding-left: 60px;
+}h2{
+    padding-left: 200px;
+    padding-top: 40px;
+}h4{
+    margin: 0px 0px 0px 90px;
+    color: black;
+    display: flex;
+    font-size: 20px;
+}#h3-apoio{
+    visibility: hidden;
+}#participantes{
+    background-color: whitesmoke;
+    margin: 0 auto;
+    height: 100px;
+    width: 60%;
+    margin-top: 1570px;
+    border-radius: 9px;
+    text-align: center;
+}
